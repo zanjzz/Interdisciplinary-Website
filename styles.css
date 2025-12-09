@@ -1032,8 +1032,11 @@ footer .part-links {
     scroll-margin-top: 40px;
   }
 
+  header {
+    padding-top: 90px;
+  }
   #hero_section .hero_title {
-    font-size: 2.5rem;
+    font-size: 2.9rem;
   }
 
   #main_button {
@@ -1154,3 +1157,4 @@ footer .part-links {
     width: 100%;
   }
 }
+
